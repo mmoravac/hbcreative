@@ -1,6 +1,6 @@
 {
   "name": "@mmoravac/hbcreative",
-  "version": "1.0.1",
+  "version": "1.13.0",
   "description": "HB Creative",
   "main": "creative.js",
   "scripts": {
